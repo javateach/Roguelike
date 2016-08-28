@@ -3,6 +3,11 @@ using System;
 using System.Collections.Generic;
 using Random = UnityEngine.Random;
 
+
+
+/// <summary>
+// this documentation is to allow there to be a change in a file on the repository
+/// </summary>
 public class BoardManager : MonoBehaviour {
 
     [Serializable]
